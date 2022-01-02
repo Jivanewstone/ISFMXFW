@@ -1,7 +1,9 @@
 # ISFMXFW
-ISFMXFW - Firemonkey Skin Library For Inno Setup
+ISFMXFW - UI Enhancer Library For Inno Setup
 
-ISFMXFW is dll which you can design and code firemonkey in Inno (VCL) and it is optimsed for faster reponse.
+ISFMXFW is dll which you can get firemonkey classes in Inno (VCL).
+It enhances ui in inno setup. may be try out in others using this lib
+It is also optimsed for better and faster reponse.
 For More Info about the Components , Check "ISFMXFW.iss"
 >**Thanks : Razor19211, ~XCX~, shiyamrrc (testing).**
 
